@@ -1,0 +1,10 @@
+h1{
+    color: darkmagenta;
+    text-align: center;
+}
+h3{
+    color: black;
+    background-color: aqua;
+    border: dotted 20px 40px;
+    border-radius: 5px;
+}
